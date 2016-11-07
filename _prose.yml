@@ -12,6 +12,7 @@ prose:
     - feed.xml
     - links.jsonp
     - CNAME
+    - README.md
     - .gitignore
     - .htaccess
     - /_layouts
@@ -28,4 +29,13 @@ prose:
         field:
           element: "hidden"
           value: "post"
+    _page:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          label: "Indiquer un titre"
+          value: "page"
   
