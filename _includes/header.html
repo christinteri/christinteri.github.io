@@ -6,7 +6,9 @@
     <a href="{{ site.baseurl }}/"><h1 class="site-title">{{ site.title }}</h1></a>
     <nav class="site-nav">
       {% for page in site.pages %}
+      {% if page.navigation != false%}
           <a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
        {% endfor %}
     </nav>
 
