@@ -29,7 +29,7 @@ prose:
         field:
           element: "hidden"
           value: "post"
-    _page:
+    _pages:
       - name: "layout"
         field:
           element: "hidden"
