@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: Essai de titre de page
+title: titre 3
 ---
 ## A New Post
 
