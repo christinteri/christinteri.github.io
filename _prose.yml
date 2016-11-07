@@ -17,6 +17,7 @@ prose:
     - /_layouts
     - /_includes
     - /_sass
+    - /_pages
     - /public
     - 404.html
     - favicon.ico
