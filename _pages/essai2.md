@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 title: Essai de titre de page
 ---
 ## A New Post
