@@ -2,6 +2,7 @@
 layout: page
 title: À propos
 permalink: /about/
+published: true
 ---
 
-Coucou
+Nous habitons Caen ou sa banlieue
