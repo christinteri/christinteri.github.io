@@ -1,8 +1,9 @@
 ---
 layout: page
 published: true
-title: titre 3
+title: Textes de référence
 ---
+
 Nos textes de référence
 
 
