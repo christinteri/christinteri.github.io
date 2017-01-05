@@ -33,9 +33,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages" # previously `page` in Jekyll 2.2.
+      type: "pages" 
     values:
-      layout: "page" # overrides previous default layout
+      layout: "page"
       navigation: "true"
 
 
