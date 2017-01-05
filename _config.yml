@@ -23,6 +23,21 @@ markdown: kramdown
 paginate: 5
 paginate_path: /page:num/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "page" # overrides previous default layout
+      navigation: "true"
+
 
 # Tracker
 analytics: 
